@@ -4,8 +4,7 @@
 
 #### The file structure
 ```
-.
-├── backboard-api                  # "app" is a Python package
+├── backboard-api        # "backboard-api" is a Python package
 │   ├── __init__.py      # this file makes "app" a "Python package"
 │   ├── main.py          # "main" module, e.g. import app.main
 │   ├── dependencies.py  # "dependencies" module, e.g. import app.dependencies
